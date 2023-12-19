@@ -9,3 +9,6 @@ Execute the project by pasting the following code in terminal under the installa
 > streamlit run Home.py
 
 The system should now be automatically opened in your default web browser.
+
+## Project Termination
+To stop the system, go to the terminal and press **Ctrl + C**. 
