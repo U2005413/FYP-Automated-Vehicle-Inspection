@@ -1,5 +1,5 @@
 detections_path: screenshots\detection
 heatmaps_path: screenshots\heatmap
-model: resources\3_Classes_100.pt
+model: resources\base_model.pt
 models_path: resources
 original_screenshots_path: screenshots\original
