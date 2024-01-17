@@ -1,5 +1,5 @@
 # FYP - Automated Vehicle Inspection Using Deep Learning and Computer Vision
-This project is prepared by Ling Xing Mou (U2005413).
+This project is prepared by student U2005413/1 from University of Malaya as FYP.
 
 ## Project Installation
 Clone and install the dependencies in the requirements.txt file.
